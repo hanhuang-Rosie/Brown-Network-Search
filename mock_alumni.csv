@@ -1,0 +1,5 @@
+Managed,Constituency,Unique Identifier,First Name,Middle Name,Last Name,Personal Suffix,Professional Suffix,Primary Employer,Job Title,Field of Work,Field of Specialty 1,Field of Specialty 2,Field of Specialty 3,Full Name
+Yes,Alumnus/a: Undergraduate,A001,John,,Smith,,,Access Holdings,Partner,Investment Management,Private Equity,Healthcare,,John Smith
+No,Alumnus/a: Graduate,A002,Emily,,Chen,,,DFW Capital Partners,Vice President,Finance,Investor Relations,Private Equity,Fundraising,Emily Chen
+Yes,Alumnus/a: Undergraduate,A003,Michael,,Lee,,,Victor Capital Partners,Principal,Investment Management,Consumer,Industrial Services,Private Equity,Michael Lee
+No,Alumnus/a: Medical,A004,Sarah,A.,Johnson,,MD,Healthcare Growth Partners,Advisor,Healthcare,Biotech,Venture Capital,,Sarah A. Johnson
